@@ -3,7 +3,7 @@
 - Pair
 
 ```dart
-var pair = Pair<First,Second>();
+var pair = Pair<First,Second>(first,second);
 ```
 - Context Util
 
