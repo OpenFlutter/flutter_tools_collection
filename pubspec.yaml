@@ -1,7 +1,7 @@
 name: flutter_tools_collection
 description: A  collection of useful tools
 version: 0.0.1
-homepage:
+homepage: https://github.com/OpenFlutter/flutter_tools_collection
 
 environment:
   sdk: ">=2.16.2 <3.0.0"
